@@ -1,0 +1,3 @@
+Designed a deductive fault simulator using C++ and Flex-Bison parsing languages. A circuit of upto 1500 gates could be tested for SA0/SA1 faults using a randomly generated input pattern.
+
+Lekshmi Geetha Krishnan
